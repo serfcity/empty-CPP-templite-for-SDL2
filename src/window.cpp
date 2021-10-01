@@ -34,7 +34,7 @@ namespace WINDOW
 
 		if(SDL_WIN == NULL) //Check that window was succcessfully created.
 		{
-			printf("Could not create window! Error: %s", SDL_GetError());
+			printf("Could not create window! Error: %s\n", SDL_GetError());
 			return 1;
 		}
 		return 0;
