@@ -1,0 +1,4 @@
+Error codes for ...
+1 - SDL could not initilazed
+2 - Window could not opened
+3 - 
